@@ -2,9 +2,13 @@
 News Tracker Application
 
 Team Members
+
 Rhithvik T
-Menaga M
+
+Menaga M (Team Lead)
+
 Anuja Beula J
+
 Deepa A
 
 
